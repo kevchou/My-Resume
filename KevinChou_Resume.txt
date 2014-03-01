@@ -14,7 +14,7 @@ University of Toronto, Toronto, ON - May 2013
   - Statistical Computation
   - Methods of Applied Statistics
 
-B.Sc Mathemaics and Statistics - GPA 3.9/4.0
+B.Sc Mathematics and Statistics - GPA 3.9/4.0
 McMaster University, Hamilton, ON - May 2012
 • Dean's Honour List 2009 - 2012
 • Graduated Summa Cum Laude
@@ -29,8 +29,8 @@ Financial Data Analyst, Strategic Analysis Corporation (September 2013 - Present
 writing complex SQL queries in Microsoft SQL Server. Examples include joining
 several time series tables of differing frequencies, as well as imputing any
 missing values.
-• Evaluate the performance of the company’s propierty trading strategies through
-backtesting using statistical techniques such as logistic regression, principal
+• Evaluate the performance of the company’s propriety trading strategies through
+back testing using statistical techniques such as logistic regression, principal
 component analysis.
 
 Teaching Assistant, University of Toronto (September 2012 - April 2013)
